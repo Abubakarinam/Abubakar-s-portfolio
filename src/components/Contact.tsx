@@ -62,7 +62,7 @@ const Contact: React.FC = () => {
                       href="mailto:contact@example.com"
                       className="text-muted-foreground hover:text-gold transition-colors"
                     >
-                      contact@example.com
+                   abubakkarinam01@gmail.com
                     </a>
                   </div>
                 </div>
@@ -77,7 +77,7 @@ const Contact: React.FC = () => {
                       href="tel:+11234567890"
                       className="text-muted-foreground hover:text-gold transition-colors"
                     >
-                      +1 (123) 456-7890
+                   +92 3424100307
                     </a>
                   </div>
                 </div>
@@ -89,7 +89,7 @@ const Contact: React.FC = () => {
                   <div>
                     <h4 className="font-medium mb-1">Location</h4>
                     <p className="text-muted-foreground">
-                      San Francisco, CA, United States
+                      Lahore, Pakistan
                     </p>
                   </div>
                 </div>
@@ -99,23 +99,18 @@ const Contact: React.FC = () => {
                 <h4 className="font-medium mb-4">Connect on Social Media</h4>
                 <div className="flex space-x-4">
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/in/abubakar-inam-b40977355/"
                     className="w-10 h-10 rounded-full bg-white flex items-center justify-center shadow-sm hover:shadow-md transition-shadow"
                   >
                     <Linkedin className="w-5 h-5" />
                   </a>
                   <a
-                    href="#"
+                    href="https://github.com/Abubakarinam"
                     className="w-10 h-10 rounded-full bg-white flex items-center justify-center shadow-sm hover:shadow-md transition-shadow"
                   >
                     <Github className="w-5 h-5" />
                   </a>
-                  <a
-                    href="#"
-                    className="w-10 h-10 rounded-full bg-white flex items-center justify-center shadow-sm hover:shadow-md transition-shadow"
-                  >
-                    <Twitter className="w-5 h-5" />
-                  </a>
+                 
                 </div>
               </div>
             </div>

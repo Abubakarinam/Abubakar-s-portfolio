@@ -20,53 +20,37 @@ const projects: Project[] = [
     title: "E-Commerce Platform",
     description: "A full-featured online store with cart, checkout, and payment integration",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1404&q=80",
-    tech: ["React", "Next.js", "Tailwind CSS", "Stripe"],
-    githubUrl: "#",
+    tech: ["React", "Js", "Tailwind CSS"],                                          
+    githubUrl: "https://github.com/Abubakarinam/ecommerce-website",
     liveUrl: "#",
-  },
-  {
-    id: 2,
-    title: "Task Management App",
-    description: "A drag-and-drop task manager with real-time collaboration features",
-    image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80",
-    tech: ["React", "Firebase", "Styled Components"],
-    githubUrl: "#",
-    liveUrl: "#",
-  },
+  },  
+  
   {
     id: 3,
     title: "Weather Dashboard",
     description: "A sleek weather app with location-based forecasts and historical data",
-    image: "https://images.unsplash.com/photo-1532178910-7815d6919572?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
-    tech: ["JavaScript", "OpenWeather API", "Chart.js"],
+    image: "images.jpeg",
+    tech: ["JavaScript", "OpenWeather API", "REACT.js"],
     githubUrl: "#",
     liveUrl: "#",
   },
-  {
-    id: 4,
-    title: "Portfolio Generator",
-    description: "A tool that creates custom portfolio websites from user inputs",
-    image: "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
-    tech: ["Vue.js", "Node.js", "MongoDB"],
-    githubUrl: "#",
-    liveUrl: "#",
-  },
+  
   {
     id: 5,
-    title: "Content Management System",
-    description: "A custom CMS with a modern dashboard and content scheduling",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    title: "Shoes  website",
+    description: "An ecommerce website for shoes",
+    image: "download (2).jpeg",
     tech: ["React", "GraphQL", "Express"],
     githubUrl: "#",
     liveUrl: "#",
   },
   {
     id: 6,
-    title: "AI Image Generator",
-    description: "A web app that creates custom artwork from text prompts",
-    image: "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
-    tech: ["React", "OpenAI API", "Tailwind CSS"],
-    githubUrl: "#",
+    title: "Tic-Tac-Toe",
+    description: "A Tic-Tac-Toe game with ",
+    image: "download (3).jpeg",
+    tech: ["React",  "Tailwind CSS"],
+    githubUrl: "https://github.com/Abubakarinam/tic-tac-toe",
     liveUrl: "#",
   },
 ];
@@ -150,7 +134,7 @@ const DevPortfolio: React.FC = () => {
           <Button
             variant="default"
             className="bg-gold hover:bg-gold/90 text-white"
-            onClick={() => window.open('https://github.com', '_blank')}
+            onClick={() => window.open('https://github.com/Abubakarinam', '_blank')}
           >
             <Github className="w-5 h-5 mr-2" /> View More on GitHub
           </Button>

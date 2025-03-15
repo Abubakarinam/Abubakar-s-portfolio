@@ -5,8 +5,8 @@ import Hero from "@/components/Hero";
 import About from "@/components/About";
 import DevPortfolio from "@/components/DevPortfolio";
 import DesignPortfolio from "@/components/DesignPortfolio";
-import Testimonials from "@/components/Testimonials";
-import BlogPreview from "@/components/BlogPreview";
+
+
 import Contact from "@/components/Contact";
 
 const Index: React.FC = () => {
@@ -36,8 +36,8 @@ const Index: React.FC = () => {
       <About />
       <DevPortfolio />
       <DesignPortfolio />
-      <Testimonials />
-      <BlogPreview />
+ 
+     
       <Contact />
     </Layout>
   );

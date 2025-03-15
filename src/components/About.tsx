@@ -21,14 +21,14 @@ const About: React.FC = () => {
             <div className="relative">
               <div className="aspect-[3/4] rounded-lg overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+                  src="475088599_1115966126744281_8537844965149781971_n.jpg"
                   alt="Professional portrait"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="absolute -bottom-6 -right-6 p-6 bg-white shadow-xl rounded-lg w-32 h-32 md:w-48 md:h-48 flex items-center justify-center">
                 <p className="text-xl md:text-2xl font-serif text-center gold-text font-bold">
-                  5+ Years Experience
+                  6 months Experience
                 </p>
               </div>
             </div>
@@ -37,7 +37,7 @@ const About: React.FC = () => {
           <AnimatedSection animation="fade-in-right">
             <div className="space-y-6">
               <h3 className="text-2xl font-serif font-bold">
-                Hi, I'm <span className="gold-text">John Doe</span>
+                Hi, I'm <span className="gold-text">Abubakar Inam</span>
               </h3>
               <p className="text-muted-foreground">
                 I'm a passionate Frontend Developer and Creative Designer with a keen eye for detail and a love for creating seamless, intuitive user experiences. My journey in the digital world has equipped me with a unique blend of technical expertise and creative vision.
