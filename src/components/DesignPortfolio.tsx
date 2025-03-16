@@ -8,18 +8,18 @@ const cardDesigns = [
   {
     id: 1,
     title: "Minimalist Business Card",
-    image: "1.png",
+    image: "PIC/1.png",
   },
   {
     id: 2,
     title: "Back                 ",
-    image: "2.png",
+    image: "PIC/2.png",
   },
   {
     id: 3,
     title: "Dates bussines card",
     image:
-      "Ramadan Dates For Iftar Instagram Post.png",
+      "PIC/Ramadan Dates For Iftar Instagram Post.png",
   },
   {
     id: 4,
@@ -35,13 +35,13 @@ const thumbnailDesigns = [
     id: 1,
     title: "Tech Tutorial Thumbnail",
     image:
-      "5b4495bc2b5f3ba80132af7d37b070969d0c88504fa75242b51e5e36_wm_79900e20-6bfa-4500-8d0d-404b0b138240_20250312102601.jpg",
+      "PIC/79baa49da4a457cf84d1a0f29806dc4ced110a70c248d525d6da57c2_wm_c81edb42-d823-4070-8948-26a9377fb2bb_20250312101000.jpg",
   },
   {
     id: 2,
     title: "Gaming Channel Thumbnail",
     image:
-      "79baa49da4a457cf84d1a0f29806dc4ced110a70c248d525d6da57c2_wm_c81edb42-d823-4070-8948-26a9377fb2bb_20250312101000.jpg",
+      "PIC/5b4495bc2b5f3ba80132af7d37b070969d0c88504fa75242b51e5e36_wm_79900e20-6bfa-4500-8d0d-404b0b138240_20250312102601.jpg",
   },
 ];
 

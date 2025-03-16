@@ -21,7 +21,7 @@ const About: React.FC = () => {
             <div className="relative">
               <div className="aspect-[3/4] rounded-lg overflow-hidden">
                 <img
-                  src="475088599_1115966126744281_8537844965149781971_n.jpg"
+                  src="PIC/475088599_1115966126744281_8537844965149781971_n.jpg"
                   alt="Professional portrait"
                   className="w-full h-full object-cover"
                 />
